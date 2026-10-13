@@ -132,6 +132,14 @@
       "datePlantation": "2026-10-13",
       "notes": ""
      }
+    ],
+    "3-0": [
+     {
+      "id": "hc72be8c",
+      "planteId": "poireau",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
     ]
    },
    "historique": [
@@ -280,6 +288,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "zp649euq",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "poireau",
+   "parcelleId": "bande-mediane",
+   "texte": "Poireau en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "szpt4vuy",
    "date": "2026-10-13",
@@ -703,5 +719,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T14:51:25.830Z"
+ "modifieLe": "2026-10-13T18:49:51.787Z"
 }
