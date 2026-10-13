@@ -97,6 +97,12 @@
       "planteId": "basilic",
       "datePlantation": "2026-10-12",
       "notes": ""
+     },
+     {
+      "id": "yy132g32",
+      "planteId": "aubergine",
+      "datePlantation": "2026-10-13",
+      "notes": ""
      }
     ],
     "0-0": [
@@ -288,6 +294,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "ksbv8j3y",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "aubergine",
+   "parcelleId": "bande-mediane",
+   "texte": "Aubergine en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "zp649euq",
    "date": "2026-10-13",
@@ -719,5 +733,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T18:49:51.787Z"
+ "modifieLe": "2026-10-13T18:50:32.549Z"
 }
