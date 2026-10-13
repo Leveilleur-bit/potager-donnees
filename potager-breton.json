@@ -43,6 +43,14 @@
       "datePlantation": "2026-10-13",
       "notes": ""
      }
+    ],
+    "4-0": [
+     {
+      "id": "d85yxa80",
+      "planteId": "engrais-vert",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
     ]
    },
    "historique": [],
@@ -272,6 +280,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "szpt4vuy",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "engrais-vert",
+   "parcelleId": "bande-haute",
+   "texte": "Engrais vert (phacélie, moutarde) en place dans « Bande haute (7 m) »"
+  },
   {
    "id": "mj5ec2zd",
    "date": "2026-10-13",
@@ -686,5 +702,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T13:42:15.070Z"
+ "modifieLe": "2026-10-13T14:01:40.585Z"
 }
