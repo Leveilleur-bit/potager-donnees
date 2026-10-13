@@ -146,6 +146,14 @@
       "datePlantation": "2026-10-13",
       "notes": ""
      }
+    ],
+    "2-0": [
+     {
+      "id": "vsqas6oi",
+      "planteId": "poivron",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
     ]
    },
    "historique": [
@@ -294,6 +302,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "5k3s38bt",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "poivron",
+   "parcelleId": "bande-mediane",
+   "texte": "Poivron / Piment en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "ksbv8j3y",
    "date": "2026-10-13",
@@ -733,5 +749,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T18:50:32.549Z"
+ "modifieLe": "2026-10-13T18:50:52.289Z"
 }
