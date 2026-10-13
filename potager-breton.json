@@ -124,14 +124,6 @@
       "datePlantation": "2026-10-13",
       "notes": ""
      }
-    ],
-    "2-0": [
-     {
-      "id": "y94d4unk",
-      "planteId": "engrais-vert",
-      "datePlantation": "2026-10-13",
-      "notes": ""
-     }
     ]
    },
    "historique": [
@@ -140,6 +132,13 @@
      "planteId": "poireau",
      "famille": "liliacees",
      "debut": "2026-10-12",
+     "fin": "2026-10-13"
+    },
+    {
+     "coord": "2-0",
+     "planteId": "engrais-vert",
+     "famille": "autre",
+     "debut": "2026-10-13",
      "fin": "2026-10-13"
     }
    ],
@@ -279,7 +278,8 @@
    "type": "semis",
    "planteId": "engrais-vert",
    "parcelleId": "bande-mediane",
-   "texte": "Engrais vert (phacélie, moutarde) en place dans « Bande médiane (6 m) »"
+   "texte": "Engrais vert (phacélie, moutarde) en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "afvw3jrx",
@@ -686,5 +686,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T13:32:38.876Z"
+ "modifieLe": "2026-10-13T13:41:44.778Z"
 }
