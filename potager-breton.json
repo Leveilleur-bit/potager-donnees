@@ -124,6 +124,14 @@
       "datePlantation": "2026-10-13",
       "notes": ""
      }
+    ],
+    "2-0": [
+     {
+      "id": "y94d4unk",
+      "planteId": "engrais-vert",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
     ]
    },
    "historique": [
@@ -265,6 +273,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "mj5ec2zd",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "engrais-vert",
+   "parcelleId": "bande-mediane",
+   "texte": "Engrais vert (phacélie, moutarde) en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "afvw3jrx",
    "date": "2026-10-13",
@@ -658,7 +674,7 @@
    "id": "4s4dky06",
    "planteId": "engrais-vert",
    "mois": "2027-08",
-   "fait": false
+   "fait": true
   },
   {
    "id": "jn2tqvpg",
@@ -670,5 +686,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T11:46:15.551Z"
+ "modifieLe": "2026-10-13T13:32:38.876Z"
 }
