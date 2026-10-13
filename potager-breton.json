@@ -265,7 +265,7 @@
      "date": "2026-10-12"
     }
    },
-   "bordure": "pierre-seche",
+   "bordure": "parpaing",
    "reelL": 3.4,
    "reelH": 1.2,
    "angle": 0
@@ -686,5 +686,5 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T13:41:44.778Z"
+ "modifieLe": "2026-10-13T13:42:15.070Z"
 }
