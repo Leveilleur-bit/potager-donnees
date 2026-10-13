@@ -1,0 +1,674 @@
+{
+ "parcelles": [
+  {
+   "id": "bande-haute",
+   "nom": "Bande haute (7 m)",
+   "largeur": 7,
+   "hauteur": 1,
+   "cases": {
+    "0-0": [
+     {
+      "id": "d5zb5a0z",
+      "planteId": "lavande",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     },
+     {
+      "id": "z2hs31ug",
+      "planteId": "capucine",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "1-0": [
+     {
+      "id": "0k2jihwh",
+      "planteId": "artichaut",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "3-0": [
+     {
+      "id": "yemwm2v4",
+      "planteId": "romarin",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "2-0": [
+     {
+      "id": "h102yw9q",
+      "planteId": "asperge",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
+    ]
+   },
+   "historique": [],
+   "posX": 0,
+   "posY": 0,
+   "protections": {
+    "2-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    },
+    "4-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    },
+    "5-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    },
+    "6-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    }
+   },
+   "bordure": "bois-noir",
+   "reelL": 7,
+   "reelH": 1,
+   "angle": 13
+  },
+  {
+   "id": "bande-mediane",
+   "nom": "Bande médiane (6 m)",
+   "largeur": 6,
+   "hauteur": 1,
+   "cases": {
+    "1-0": [
+     {
+      "planteId": "menthe",
+      "datePlantation": "2026-10-12",
+      "notes": "",
+      "id": "f0lz54em"
+     },
+     {
+      "id": "aw8j1dur",
+      "planteId": "basilic",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "0-0": [
+     {
+      "id": "0th91ys5",
+      "planteId": "lavande",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     },
+     {
+      "id": "bdfgrsj1",
+      "planteId": "thym",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     },
+     {
+      "id": "288fze8b",
+      "planteId": "ciboulette",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     },
+     {
+      "id": "3yfi65jn",
+      "planteId": "persil",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "5-0": [
+     {
+      "id": "8dnhslec",
+      "planteId": "poireau",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
+    ]
+   },
+   "historique": [
+    {
+     "coord": "4-0",
+     "planteId": "poireau",
+     "famille": "liliacees",
+     "debut": "2026-10-12",
+     "fin": "2026-10-13"
+    }
+   ],
+   "posX": 0.05,
+   "posY": 1.55,
+   "protections": {
+    "2-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    },
+    "3-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    },
+    "4-0": {
+     "type": "paillage",
+     "date": "2026-10-13"
+    }
+   },
+   "bordure": "pierre-seche",
+   "reelL": 6,
+   "reelH": 1.5,
+   "angle": 13
+  },
+  {
+   "id": "retour-droit",
+   "nom": "Retour droit (3,3 m)",
+   "largeur": 1,
+   "hauteur": 3,
+   "cases": {
+    "0-0": [
+     {
+      "id": "vr55bxsx",
+      "planteId": "cassis",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     },
+     {
+      "id": "2na97vjz",
+      "planteId": "framboise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "0-1": [
+     {
+      "id": "ihu1iy8b",
+      "planteId": "framboise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "0-2": [
+     {
+      "id": "p34morf9",
+      "planteId": "framboise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ]
+   },
+   "historique": [],
+   "posX": 6.06,
+   "posY": 2.55,
+   "protections": {},
+   "bordure": "pierre-seche",
+   "reelL": 0.8,
+   "reelH": 3.75,
+   "angle": 0
+  },
+  {
+   "id": "bande-basse",
+   "nom": "Bande basse (3,4 m)",
+   "largeur": 4,
+   "hauteur": 1,
+   "cases": {
+    "0-0": [
+     {
+      "id": "xe8gj0l3",
+      "planteId": "fraise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "1-0": [
+     {
+      "id": "nqwez5cp",
+      "planteId": "fraise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "2-0": [
+     {
+      "id": "ijlsf4r2",
+      "planteId": "fraise",
+      "datePlantation": "2026-10-12",
+      "notes": ""
+     }
+    ],
+    "3-0": [
+     {
+      "id": "uvqg9jg6",
+      "planteId": "myrtille",
+      "datePlantation": "2026-10-13",
+      "notes": ""
+     }
+    ]
+   },
+   "historique": [
+    {
+     "coord": "2-0",
+     "planteId": "myrtille",
+     "famille": "ericacees",
+     "debut": "2026-10-12",
+     "fin": "2026-10-13"
+    }
+   ],
+   "posX": 2.66,
+   "posY": 5.11,
+   "protections": {
+    "3-0": {
+     "type": "paillage",
+     "date": "2026-10-12"
+    }
+   },
+   "bordure": "pierre-seche",
+   "reelL": 3.4,
+   "reelH": 1.2,
+   "angle": 0
+  }
+ ],
+ "journal": [
+  {
+   "id": "afvw3jrx",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "myrtille",
+   "parcelleId": "bande-basse",
+   "texte": "Myrtillier en place dans « Bande basse (3,4 m) »",
+   "photos": []
+  },
+  {
+   "id": "jpszcien",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "poireau",
+   "parcelleId": "bande-mediane",
+   "texte": "Poireau en place dans « Bande médiane (6 m) »",
+   "photos": []
+  },
+  {
+   "id": "pv41r3js",
+   "date": "2026-10-13",
+   "type": "note",
+   "texte": "Photo",
+   "photos": [
+    "photo-k5isjylr9rjsvo0t",
+    "photo-5ifaydqoyena1i1s",
+    "photo-cybvgaps1up79lse"
+   ]
+  },
+  {
+   "id": "f5m9rrpu",
+   "date": "2026-10-13",
+   "type": "semis",
+   "planteId": "asperge",
+   "parcelleId": "bande-haute",
+   "texte": "Asperge en place dans « Bande haute (7 m) »",
+   "photos": []
+  },
+  {
+   "id": "m416yezj",
+   "date": "2026-10-13",
+   "type": "note",
+   "texte": "Photo",
+   "photos": [
+    "photo-0r0pwq0npaazjbxt"
+   ]
+  },
+  {
+   "id": "q1aiy2qw",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "basilic",
+   "parcelleId": "bande-mediane",
+   "texte": "Basilic en place dans « Bande médiane (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "a16u3jap",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "persil",
+   "parcelleId": "bande-mediane",
+   "texte": "Persil en place dans « Bande médiane (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "nthd9s9x",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "ciboulette",
+   "parcelleId": "bande-mediane",
+   "texte": "Ciboulette en place dans « Bande médiane (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "e4fjzoeo",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "thym",
+   "parcelleId": "bande-mediane",
+   "texte": "Thym en place dans « Bande médiane (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "epr626k6",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "lavande",
+   "parcelleId": "bande-mediane",
+   "texte": "Lavande en place dans « Bande médiane (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "godcf990",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "framboise",
+   "parcelleId": "retour-droit",
+   "texte": "Framboisier en place dans « Retour droit (3 m) » (2 m²)",
+   "photos": []
+  },
+  {
+   "id": "7wokgmdx",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "fraise",
+   "parcelleId": "bande-basse",
+   "texte": "Fraisier en place dans « Bande basse (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "hwpwk3hp",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "myrtille",
+   "parcelleId": "bande-basse",
+   "texte": "Myrtillier en place dans « Bande basse (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "31104qkw",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "fraise",
+   "parcelleId": "bande-basse",
+   "texte": "Fraisier en place dans « Bande basse (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "iueieea0",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "fraise",
+   "parcelleId": "bande-basse",
+   "texte": "Fraisier en place dans « Bande basse (5 m) »",
+   "photos": []
+  },
+  {
+   "id": "pyrmy5o3",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "framboise",
+   "parcelleId": "retour-droit",
+   "texte": "Framboisier en place dans « Retour droit (3 m) »",
+   "photos": []
+  },
+  {
+   "id": "8u34j208",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "cassis",
+   "parcelleId": "retour-droit",
+   "texte": "Cassis / Groseillier en place dans « Retour droit (3 m) »",
+   "photos": []
+  },
+  {
+   "id": "pwhthk6c",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "romarin",
+   "parcelleId": "bande-haute",
+   "texte": "Romarin en place dans « Bande haute (7 m) »",
+   "photos": []
+  },
+  {
+   "id": "3a3ig62d",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "artichaut",
+   "parcelleId": "bande-haute",
+   "texte": "Artichaut en place dans « Bande haute (7 m) »",
+   "photos": []
+  },
+  {
+   "id": "6j6n4hfn",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "capucine",
+   "parcelleId": "bande-haute",
+   "texte": "Capucine en place dans « Bande haute (7 m) »",
+   "photos": []
+  },
+  {
+   "id": "n6b3i2yq",
+   "date": "2026-10-12",
+   "type": "semis",
+   "planteId": "lavande",
+   "parcelleId": "bande-haute",
+   "texte": "Lavande en place dans « Bande haute (7 m) »",
+   "photos": []
+  }
+ ],
+ "version": 3,
+ "reglages": {
+  "lieu": {
+   "nom": "Quimper",
+   "lat": 47.99597,
+   "lon": -4.09795
+  },
+  "derniereSauvegarde": "2026-10-12",
+  "jardin": {
+   "sud": "haut",
+   "maison": "aucune",
+   "croquis": "applique",
+   "croquis2": "applique",
+   "arbres": [
+    {
+     "type": "palmier",
+     "parcelle": "bande-mediane",
+     "dx": 3.9,
+     "dy": 0.75,
+     "r": 0.8
+    },
+    {
+     "type": "cordyline",
+     "parcelle": "bande-basse",
+     "dx": 1.7,
+     "dy": 0.6,
+     "r": 0.5
+    },
+    {
+     "type": "fruitier",
+     "parcelle": "retour-droit",
+     "dx": 0.4,
+     "dy": 3.35,
+     "r": 0.7
+    }
+   ],
+   "croquis3": "applique",
+   "croquis4": "applique"
+  }
+ },
+ "projets": [
+  {
+   "id": "nskaijup",
+   "planteId": "ail",
+   "mois": "2026-10",
+   "fait": false
+  },
+  {
+   "id": "5o0ioxdr",
+   "planteId": "oignon",
+   "mois": "2026-10",
+   "fait": false
+  },
+  {
+   "id": "8fgr44a5",
+   "planteId": "epinard-hiver",
+   "mois": "2026-10",
+   "fait": false
+  },
+  {
+   "id": "e5o6gw1n",
+   "planteId": "salade",
+   "mois": "2027-02",
+   "fait": false
+  },
+  {
+   "id": "z09ags0c",
+   "planteId": "petit-pois",
+   "mois": "2027-02",
+   "fait": false
+  },
+  {
+   "id": "97x713n3",
+   "planteId": "poireau",
+   "mois": "2027-02",
+   "fait": true
+  },
+  {
+   "id": "qtn7wqc8",
+   "planteId": "carotte",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "qp8wevru",
+   "planteId": "pomme-de-terre",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "klzavnrt",
+   "planteId": "fraise",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "nkzj578e",
+   "planteId": "bleuet",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "m8usoaax",
+   "planteId": "ciboulette",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "ojt2k6jo",
+   "planteId": "persil",
+   "mois": "2027-03",
+   "fait": false
+  },
+  {
+   "id": "8kir3ckn",
+   "planteId": "tomate",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "nknr94uo",
+   "planteId": "courge",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "rba0excb",
+   "planteId": "courgette",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "c34r4g24",
+   "planteId": "cosmos",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "l5t1trmi",
+   "planteId": "tournesol",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "ie3qyaij",
+   "planteId": "basilic",
+   "mois": "2027-04",
+   "fait": false
+  },
+  {
+   "id": "a6ukin5v",
+   "planteId": "courge",
+   "mois": "2027-05",
+   "fait": false
+  },
+  {
+   "id": "y7zyt2zx",
+   "planteId": "courgette",
+   "mois": "2027-05",
+   "fait": false
+  },
+  {
+   "id": "352xs5r2",
+   "planteId": "betterave",
+   "mois": "2027-05",
+   "fait": false
+  },
+  {
+   "id": "xohu8par",
+   "planteId": "haricot-vert",
+   "mois": "2027-05",
+   "fait": false
+  },
+  {
+   "id": "a9rqts57",
+   "planteId": "tournesol",
+   "mois": "2027-05",
+   "fait": false
+  },
+  {
+   "id": "uzbuw72c",
+   "planteId": "salade",
+   "mois": "2027-06",
+   "fait": false
+  },
+  {
+   "id": "oeia4oxn",
+   "planteId": "courge",
+   "mois": "2027-06",
+   "fait": false
+  },
+  {
+   "id": "qj1nc5ja",
+   "planteId": "epinard-hiver",
+   "mois": "2027-08",
+   "fait": false
+  },
+  {
+   "id": "4s4dky06",
+   "planteId": "engrais-vert",
+   "mois": "2027-08",
+   "fait": false
+  },
+  {
+   "id": "jn2tqvpg",
+   "planteId": "fraise",
+   "mois": "2027-09",
+   "fait": false
+  }
+ ],
+ "plantesPerso": [],
+ "graines": [],
+ "courses": [],
+ "modifieLe": "2026-10-13T11:46:15.551Z"
+}
