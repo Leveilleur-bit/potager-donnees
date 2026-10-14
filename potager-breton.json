@@ -308,7 +308,8 @@
    "type": "semis",
    "planteId": "poivron",
    "parcelleId": "bande-mediane",
-   "texte": "Poivron / Piment en place dans « Bande médiane (6 m) »"
+   "texte": "Poivron / Piment en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "ksbv8j3y",
@@ -316,7 +317,8 @@
    "type": "semis",
    "planteId": "aubergine",
    "parcelleId": "bande-mediane",
-   "texte": "Aubergine en place dans « Bande médiane (6 m) »"
+   "texte": "Aubergine en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "zp649euq",
@@ -324,7 +326,8 @@
    "type": "semis",
    "planteId": "poireau",
    "parcelleId": "bande-mediane",
-   "texte": "Poireau en place dans « Bande médiane (6 m) »"
+   "texte": "Poireau en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "szpt4vuy",
@@ -749,5 +752,11 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-13T18:50:52.289Z"
+ "modifieLe": "2026-10-14T06:33:55.116Z",
+ "envies": [],
+ "hivernage": {
+  "2026": {
+   "asperge": "2026-10-14"
+  }
+ }
 }
