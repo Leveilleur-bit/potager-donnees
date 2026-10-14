@@ -752,11 +752,12 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-14T06:33:55.116Z",
+ "modifieLe": "2026-10-14T06:34:07.118Z",
  "envies": [],
  "hivernage": {
   "2026": {
-   "asperge": "2026-10-14"
+   "asperge": "2026-10-14",
+   "feuilles": "2026-10-14"
   }
  }
 }
