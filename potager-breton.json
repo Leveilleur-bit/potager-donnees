@@ -145,6 +145,12 @@
       "planteId": "poireau",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "zbnrfbxt",
+      "planteId": "tulipe",
+      "datePlantation": "2026-10-14",
+      "notes": ""
      }
     ],
     "2-0": [
@@ -302,6 +308,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "ps0eyip8",
+   "date": "2026-10-14",
+   "type": "semis",
+   "planteId": "tulipe",
+   "parcelleId": "bande-mediane",
+   "texte": "Tulipe en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "5k3s38bt",
    "date": "2026-10-13",
@@ -752,7 +766,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-14T06:34:07.118Z",
+ "modifieLe": "2026-10-14T17:55:26.867Z",
  "envies": [],
  "hivernage": {
   "2026": {
