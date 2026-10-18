@@ -767,7 +767,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-18T20:10:34.876Z",
+ "modifieLe": "2026-10-18T20:10:46.976Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -781,6 +781,8 @@
  "coachVus": {
   "⏳|Dernier mois pour semer : Mâche": "2026-10-18",
   "🌬️|Vent du nord aujourd'hui": "2026-10-18",
-  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-18"
+  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-18",
+  "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
  }
 }
