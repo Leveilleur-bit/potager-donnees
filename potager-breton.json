@@ -767,7 +767,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-20T14:51:48.058Z",
+ "modifieLe": "2026-10-21T04:59:26.487Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -780,6 +780,11 @@
  },
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
+  "💨|Coup de vent aujourd'hui (rafales 80 km/h)": "2026-10-21",
+  "🐌|Temps à limaces ce soir": "2026-10-21",
+  "⏳|Dernier mois pour semer : Mâche": "2026-10-21",
+  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-21",
+  "⛈️|Forte pluie annoncée demain": "2026-10-21"
  }
 }
