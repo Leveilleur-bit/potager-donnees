@@ -246,7 +246,7 @@
    "posX": 6.06,
    "posY": 2.55,
    "protections": {},
-   "bordure": "pierre-seche",
+   "bordure": "parpaing",
    "reelL": 0.8,
    "reelH": 3.75,
    "angle": 0
@@ -781,7 +781,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-24T08:58:20.470Z",
+ "modifieLe": "2026-10-24T09:00:00.183Z",
  "envies": [],
  "hivernage": {
   "2026": {
