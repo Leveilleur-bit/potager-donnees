@@ -129,6 +129,12 @@
       "planteId": "persil",
       "datePlantation": "2026-10-12",
       "notes": ""
+     },
+     {
+      "id": "mh2xfcxj",
+      "planteId": "gingembre",
+      "datePlantation": "2026-10-24",
+      "notes": ""
      }
     ],
     "5-0": [
@@ -308,6 +314,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "xwuij2js",
+   "date": "2026-10-24",
+   "type": "semis",
+   "planteId": "gingembre",
+   "parcelleId": "bande-mediane",
+   "texte": "Gingembre en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "ps0eyip8",
    "date": "2026-10-14",
@@ -767,7 +781,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-21T04:59:26.487Z",
+ "modifieLe": "2026-10-24T08:58:20.470Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -780,11 +794,6 @@
  },
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
-  "💨|Coup de vent aujourd'hui (rafales 80 km/h)": "2026-10-21",
-  "🐌|Temps à limaces ce soir": "2026-10-21",
-  "⏳|Dernier mois pour semer : Mâche": "2026-10-21",
-  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-21",
-  "⛈️|Forte pluie annoncée demain": "2026-10-21"
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
  }
 }
