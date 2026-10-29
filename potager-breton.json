@@ -109,6 +109,12 @@
       "planteId": "aubergine",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "dratczmm",
+      "planteId": "epinard-hiver",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ],
     "0-0": [
@@ -332,6 +338,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "vm4s4dqs",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "epinard-hiver",
+   "parcelleId": "bande-mediane",
+   "texte": "Mâche en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "wgqm1ohx",
    "date": "2026-10-29",
@@ -806,7 +820,7 @@
    "id": "qj1nc5ja",
    "planteId": "epinard-hiver",
    "mois": "2027-08",
-   "fait": false
+   "fait": true
   },
   {
    "id": "4s4dky06",
@@ -824,7 +838,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:36:52.219Z",
+ "modifieLe": "2026-10-29T16:37:13.040Z",
  "envies": [],
  "hivernage": {
   "2026": {
