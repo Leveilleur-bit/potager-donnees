@@ -26,6 +26,12 @@
       "planteId": "artichaut",
       "datePlantation": "2026-10-12",
       "notes": ""
+     },
+     {
+      "id": "v8dai65u",
+      "planteId": "oignon",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ],
     "3-0": [
@@ -320,6 +326,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "zhu18j3k",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "oignon",
+   "parcelleId": "bande-haute",
+   "texte": "Oignon en place dans « Bande haute (7 m) »"
+  },
   {
    "id": "8tq3eimh",
    "date": "2026-10-29",
@@ -634,7 +648,7 @@
    "id": "5o0ioxdr",
    "planteId": "oignon",
    "mois": "2026-10",
-   "fait": false
+   "fait": true
   },
   {
    "id": "8fgr44a5",
@@ -796,7 +810,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:35:36.977Z",
+ "modifieLe": "2026-10-29T16:36:30.261Z",
  "envies": [],
  "hivernage": {
   "2026": {
