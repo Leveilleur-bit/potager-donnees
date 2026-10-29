@@ -54,6 +54,12 @@
       "planteId": "asperge",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "n6mg84fv",
+      "planteId": "oignon",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -356,6 +362,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "9xmj583n",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "oignon",
+   "parcelleId": "bande-haute",
+   "texte": "Oignon en place dans « Bande haute (7 m) »"
+  },
   {
    "id": "107t9npx",
    "date": "2026-10-29",
@@ -880,7 +894,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:42:58.391Z",
+ "modifieLe": "2026-10-29T16:43:18.589Z",
  "envies": [],
  "hivernage": {
   "2026": {
