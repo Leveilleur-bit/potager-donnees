@@ -866,7 +866,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:40:49.481Z",
+ "modifieLe": "2026-10-29T16:41:27.311Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -882,5 +882,44 @@
   "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
   "🎋|Asperge (pérenne) : c'est le moment": "2026-10-29"
  },
- "prochaineSaison": {}
+ "prochaineSaison": {
+  "2027": {
+   "bande-haute": {
+    "4-0": [
+     "courge",
+     "cosmos",
+     "capucine"
+    ],
+    "5-0": [
+     "courgette"
+    ],
+    "6-0": [
+     "tournesol"
+    ],
+    "0-0": [
+     "bleuet",
+     "tulipe"
+    ],
+    "1-0": [
+     "souci"
+    ]
+   },
+   "bande-mediane": {
+    "3-0": [
+     "salade",
+     "pensee",
+     "gingembre"
+    ],
+    "2-0": [
+     "basilic"
+    ],
+    "4-0": [
+     "persil"
+    ],
+    "5-0": [
+     "betterave"
+    ]
+   }
+  }
+ }
 }
