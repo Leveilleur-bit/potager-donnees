@@ -165,6 +165,12 @@
       "planteId": "poivron",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "q2haj5lz",
+      "planteId": "ail",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -314,6 +320,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "8tq3eimh",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "ail",
+   "parcelleId": "bande-mediane",
+   "texte": "Ail en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "xwuij2js",
    "date": "2026-10-24",
@@ -614,7 +628,7 @@
    "id": "nskaijup",
    "planteId": "ail",
    "mois": "2026-10",
-   "fait": false
+   "fait": true
   },
   {
    "id": "5o0ioxdr",
@@ -782,7 +796,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-27T16:22:10.781Z",
+ "modifieLe": "2026-10-29T16:35:36.977Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -795,10 +809,7 @@
  },
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
-  "🐌|Temps à limaces ce soir": "2026-10-27",
-  "⏳|Dernier mois pour semer : Mâche": "2026-10-27",
-  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-27"
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
  },
  "prochaineSaison": {}
 }
