@@ -263,6 +263,12 @@
       "planteId": "framboise",
       "datePlantation": "2026-10-12",
       "notes": ""
+     },
+     {
+      "id": "vy6vh41b",
+      "planteId": "fraise",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -344,6 +350,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "7ii16f2v",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "fraise",
+   "parcelleId": "retour-droit",
+   "texte": "Fraisier en place dans « Retour droit (3,3 m) »"
+  },
   {
    "id": "wvh6gvz4",
    "date": "2026-10-29",
@@ -846,13 +860,13 @@
    "id": "jn2tqvpg",
    "planteId": "fraise",
    "mois": "2027-09",
-   "fait": false
+   "fait": true
   }
  ],
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:37:28.701Z",
+ "modifieLe": "2026-10-29T16:37:42.473Z",
  "envies": [],
  "hivernage": {
   "2026": {
