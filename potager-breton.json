@@ -201,6 +201,12 @@
       "planteId": "epinard-hiver",
       "datePlantation": "2026-10-29",
       "notes": ""
+     },
+     {
+      "id": "alb84c1e",
+      "planteId": "oignon",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -362,6 +368,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "xta75smf",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "oignon",
+   "parcelleId": "bande-mediane",
+   "texte": "Oignon en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "9xmj583n",
    "date": "2026-10-29",
@@ -894,7 +908,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:43:18.589Z",
+ "modifieLe": "2026-10-29T16:43:44.772Z",
  "envies": [],
  "hivernage": {
   "2026": {
