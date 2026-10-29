@@ -311,6 +311,12 @@
       "planteId": "myrtille",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "p7xylnn9",
+      "planteId": "fraise",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -338,6 +344,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "wvh6gvz4",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "fraise",
+   "parcelleId": "bande-basse",
+   "texte": "Fraisier en place dans « Bande basse (3,4 m) »"
+  },
   {
    "id": "vm4s4dqs",
    "date": "2026-10-29",
@@ -718,7 +732,7 @@
    "id": "klzavnrt",
    "planteId": "fraise",
    "mois": "2027-03",
-   "fait": false
+   "fait": true
   },
   {
    "id": "nkzj578e",
@@ -838,7 +852,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:37:13.040Z",
+ "modifieLe": "2026-10-29T16:37:28.701Z",
  "envies": [],
  "hivernage": {
   "2026": {
