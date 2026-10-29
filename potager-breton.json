@@ -177,6 +177,12 @@
       "planteId": "ail",
       "datePlantation": "2026-10-29",
       "notes": ""
+     },
+     {
+      "id": "a33wt8ub",
+      "planteId": "epinard-hiver",
+      "datePlantation": "2026-10-29",
+      "notes": ""
      }
     ]
    },
@@ -326,6 +332,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "wgqm1ohx",
+   "date": "2026-10-29",
+   "type": "semis",
+   "planteId": "epinard-hiver",
+   "parcelleId": "bande-mediane",
+   "texte": "Mâche en place dans « Bande médiane (6 m) »"
+  },
   {
    "id": "zhu18j3k",
    "date": "2026-10-29",
@@ -654,7 +668,7 @@
    "id": "8fgr44a5",
    "planteId": "epinard-hiver",
    "mois": "2026-10",
-   "fait": false
+   "fait": true
   },
   {
    "id": "e5o6gw1n",
@@ -810,7 +824,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:36:30.261Z",
+ "modifieLe": "2026-10-29T16:36:52.219Z",
  "envies": [],
  "hivernage": {
   "2026": {
