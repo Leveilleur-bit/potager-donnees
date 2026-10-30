@@ -121,12 +121,6 @@
       "planteId": "aubergine",
       "datePlantation": "2026-10-13",
       "notes": ""
-     },
-     {
-      "id": "dratczmm",
-      "planteId": "epinard-hiver",
-      "datePlantation": "2026-10-29",
-      "notes": ""
      }
     ],
     "0-0": [
@@ -374,7 +368,8 @@
    "type": "semis",
    "planteId": "oignon",
    "parcelleId": "bande-mediane",
-   "texte": "Oignon en place dans « Bande médiane (6 m) »"
+   "texte": "Oignon en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "9xmj583n",
@@ -382,7 +377,8 @@
    "type": "semis",
    "planteId": "oignon",
    "parcelleId": "bande-haute",
-   "texte": "Oignon en place dans « Bande haute (7 m) »"
+   "texte": "Oignon en place dans « Bande haute (7 m) »",
+   "photos": []
   },
   {
    "id": "107t9npx",
@@ -390,7 +386,8 @@
    "type": "semis",
    "planteId": "oignon",
    "parcelleId": "bande-haute",
-   "texte": "Oignon en place dans « Bande haute (7 m) »"
+   "texte": "Oignon en place dans « Bande haute (7 m) »",
+   "photos": []
   },
   {
    "id": "7ii16f2v",
@@ -398,7 +395,8 @@
    "type": "semis",
    "planteId": "fraise",
    "parcelleId": "retour-droit",
-   "texte": "Fraisier en place dans « Retour droit (3,3 m) »"
+   "texte": "Fraisier en place dans « Retour droit (3,3 m) »",
+   "photos": []
   },
   {
    "id": "wvh6gvz4",
@@ -406,7 +404,8 @@
    "type": "semis",
    "planteId": "fraise",
    "parcelleId": "bande-basse",
-   "texte": "Fraisier en place dans « Bande basse (3,4 m) »"
+   "texte": "Fraisier en place dans « Bande basse (3,4 m) »",
+   "photos": []
   },
   {
    "id": "vm4s4dqs",
@@ -414,7 +413,8 @@
    "type": "semis",
    "planteId": "epinard-hiver",
    "parcelleId": "bande-mediane",
-   "texte": "Mâche en place dans « Bande médiane (6 m) »"
+   "texte": "Mâche en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "wgqm1ohx",
@@ -422,7 +422,8 @@
    "type": "semis",
    "planteId": "epinard-hiver",
    "parcelleId": "bande-mediane",
-   "texte": "Mâche en place dans « Bande médiane (6 m) »"
+   "texte": "Mâche en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "zhu18j3k",
@@ -430,7 +431,8 @@
    "type": "semis",
    "planteId": "oignon",
    "parcelleId": "bande-haute",
-   "texte": "Oignon en place dans « Bande haute (7 m) »"
+   "texte": "Oignon en place dans « Bande haute (7 m) »",
+   "photos": []
   },
   {
    "id": "8tq3eimh",
@@ -438,7 +440,8 @@
    "type": "semis",
    "planteId": "ail",
    "parcelleId": "bande-mediane",
-   "texte": "Ail en place dans « Bande médiane (6 m) »"
+   "texte": "Ail en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "xwuij2js",
@@ -908,7 +911,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-29T16:43:44.772Z",
+ "modifieLe": "2026-10-30T05:31:28.691Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -921,8 +924,7 @@
  },
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
-  "🎋|Asperge (pérenne) : c'est le moment": "2026-10-29"
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
  },
  "prochaineSaison": {
   "2027": {
