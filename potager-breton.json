@@ -341,6 +341,12 @@
       "planteId": "fraise",
       "datePlantation": "2026-10-29",
       "notes": ""
+     },
+     {
+      "id": "50ckkfc0",
+      "planteId": "epinard-hiver",
+      "datePlantation": "2026-10-30",
+      "notes": ""
      }
     ]
    },
@@ -368,6 +374,14 @@
   }
  ],
  "journal": [
+  {
+   "id": "l4yar4fu",
+   "date": "2026-10-30",
+   "type": "semis",
+   "planteId": "epinard-hiver",
+   "parcelleId": "bande-basse",
+   "texte": "Mâche en place dans « Bande basse (3,4 m) »"
+  },
   {
    "id": "j3bn9zrx",
    "date": "2026-10-30",
@@ -925,7 +939,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-30T05:31:50.831Z",
+ "modifieLe": "2026-10-30T05:32:07.115Z",
  "envies": [],
  "hivernage": {
   "2026": {
