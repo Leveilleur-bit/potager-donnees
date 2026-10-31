@@ -201,12 +201,6 @@
       "planteId": "epinard-hiver",
       "datePlantation": "2026-10-29",
       "notes": ""
-     },
-     {
-      "id": "alb84c1e",
-      "planteId": "oignon",
-      "datePlantation": "2026-10-29",
-      "notes": ""
      }
     ]
    },
@@ -955,7 +949,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-31T12:12:23.161Z",
+ "modifieLe": "2026-10-31T12:12:36.207Z",
  "envies": [],
  "hivernage": {
   "2026": {
