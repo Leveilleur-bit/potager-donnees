@@ -121,6 +121,12 @@
       "planteId": "aubergine",
       "datePlantation": "2026-10-13",
       "notes": ""
+     },
+     {
+      "id": "k1n6e7o8",
+      "planteId": "oignon",
+      "datePlantation": "2026-10-31",
+      "notes": ""
      }
     ],
     "0-0": [
@@ -375,12 +381,21 @@
  ],
  "journal": [
   {
+   "id": "r019mr1l",
+   "date": "2026-10-31",
+   "type": "semis",
+   "planteId": "oignon",
+   "parcelleId": "bande-mediane",
+   "texte": "Oignon en place dans « Bande médiane (6 m) »"
+  },
+  {
    "id": "l4yar4fu",
    "date": "2026-10-30",
    "type": "semis",
    "planteId": "epinard-hiver",
    "parcelleId": "bande-basse",
-   "texte": "Mâche en place dans « Bande basse (3,4 m) »"
+   "texte": "Mâche en place dans « Bande basse (3,4 m) »",
+   "photos": []
   },
   {
    "id": "j3bn9zrx",
@@ -388,7 +403,8 @@
    "type": "semis",
    "planteId": "epinard-hiver",
    "parcelleId": "bande-basse",
-   "texte": "Mâche en place dans « Bande basse (3,4 m) »"
+   "texte": "Mâche en place dans « Bande basse (3,4 m) »",
+   "photos": []
   },
   {
    "id": "xta75smf",
@@ -939,7 +955,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-30T05:32:07.115Z",
+ "modifieLe": "2026-10-31T12:12:23.161Z",
  "envies": [],
  "hivernage": {
   "2026": {
