@@ -950,7 +950,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-11-01T18:21:03.118Z",
+ "modifieLe": "2026-11-01T18:21:12.560Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -964,7 +964,8 @@
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
   "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
-  "🌬️|Vent du nord demain": "2026-11-01"
+  "🌬️|Vent du nord demain": "2026-11-01",
+  "🎋|Asperge (pérenne) : c'est le moment": "2026-11-01"
  },
  "prochaineSaison": {
   "2027": {
