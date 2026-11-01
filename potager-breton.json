@@ -380,7 +380,8 @@
    "type": "semis",
    "planteId": "oignon",
    "parcelleId": "bande-mediane",
-   "texte": "Oignon en place dans « Bande médiane (6 m) »"
+   "texte": "Oignon en place dans « Bande médiane (6 m) »",
+   "photos": []
   },
   {
    "id": "l4yar4fu",
@@ -949,7 +950,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-10-31T12:12:36.207Z",
+ "modifieLe": "2026-11-01T18:21:03.118Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -962,7 +963,8 @@
  },
  "coachVus": {
   "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01"
+  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
+  "🌬️|Vent du nord demain": "2026-11-01"
  },
  "prochaineSaison": {
   "2027": {
