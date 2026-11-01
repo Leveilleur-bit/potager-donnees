@@ -950,7 +950,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-11-01T18:21:56.620Z",
+ "modifieLe": "2026-11-01T18:22:07.653Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -958,7 +958,8 @@
    "feuilles": "2026-10-14",
    "frileuses": "2026-10-14",
    "vent": "2026-10-14",
-   "fraise": "2026-10-16"
+   "fraise": "2026-10-16",
+   "artichaut": "2026-11-01"
   }
  },
  "coachVus": {
