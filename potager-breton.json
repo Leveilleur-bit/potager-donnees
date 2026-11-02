@@ -950,7 +950,7 @@
  "plantesPerso": [],
  "graines": [],
  "courses": [],
- "modifieLe": "2026-11-01T18:22:23.195Z",
+ "modifieLe": "2026-11-02T18:59:50.958Z",
  "envies": [],
  "hivernage": {
   "2026": {
@@ -966,13 +966,11 @@
   }
  },
  "coachVus": {
-  "🐌|Jeunes plants à protéger des limaces": "2026-11-01",
-  "🐦|Terre fraîchement travaillée : les oiseaux grattent": "2026-11-01",
-  "🌬️|Vent du nord demain": "2026-11-01",
-  "🎋|Asperge (pérenne) : c'est le moment": "2026-11-01",
   "🍇|Cassis (pérenne) : le geste du mois": "2026-11-15",
   "🌵|Artichaut (pérenne) : le geste du mois": "2026-11-15",
-  "🤝|Menthe et Persil sont voisins dans « Bande médiane (6 m) »": "2026-11-15"
+  "🤝|Menthe et Persil sont voisins dans « Bande médiane (6 m) »": "2026-11-15",
+  "🌬️|Vent du nord aujourd'hui": "2026-11-02",
+  "🎋|Asperge (pérenne) : c'est le moment": "2026-11-02"
  },
  "prochaineSaison": {
   "2027": {
